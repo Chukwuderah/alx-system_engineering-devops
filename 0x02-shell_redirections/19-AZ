@@ -1,2 +1,2 @@
 #!/bin/bash
-mv A,c > Z,e 
+mv A,c < Z,e 
